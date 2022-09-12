@@ -20,7 +20,24 @@ Saraksta piemērs (3):
    - elements  
 Piemērs ar emoji :smile:  
 
-
-
+## Linux komandas:  
+-ctrl + shift + t  
+-ctrl + alt + F1 (F1 līdz F7, F7 iziet ārā)  
+-whoami  
+-who  
+-pwd  
+-ls ( + -l -a -t, var arī kobinēt)  
+-nano fails.txt  
+-cd .. (var arī cd /Desktop/ utt.)    
+-rm (izdzēst, var pielietot ar -r)  
+-mkdir (izveidot mapi)  
+-git clone (links)+(jauna mapes nosakums) (lejupielādēt github pierakstus)  
+-hexdump  
+-history  
+-cat  
+-man ls  
+-echo $0  
+-sh  
+  
 
 
