@@ -1,0 +1,16 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd
+    4  rm -rf RTR105/
+    5  ls -lt
+    6  git clone https://github.com/ViestursA/RTR105
+    7  history | clone
+    8  history | grep clone
+    9  cd RTR105/
+   10  ls -lt
+   11  echo $PATH
+   12  PATH=$PATH
+   13  echo $PATH
+   14  PATH=$PATH:./
+   15  echo $PATH
+   16  history > history_20220920b.txt
