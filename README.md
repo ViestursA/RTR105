@@ -3,7 +3,7 @@ Studiju kurss datormācībā, elektroniskā klade
 Satura rādītājs  
  - [6. septembris](https://github.com/ViestursA/RTR105#piem%C4%93ri-ar-sarakstiem)    
  - [13. septembris](https://github.com/ViestursA/RTR105/blob/main/README.md#13-septembra-nodarb%C4%ABba)  
- - [20. septembris]()  
+ - [20. septembris](https://github.com/ViestursA/RTR105/blob/main/README.md#20-septembra-nodar%C4%ABba)  
  - [27. septembris]()    
 [Piemērs ar linku](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Svg_example4.svg/1200px-Svg_example4.svg.png)  
