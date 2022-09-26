@@ -64,7 +64,8 @@ Piemērs ar emoji :smile:
     21  history
     22  history > history_20220913a.txt  
    
-## 20. septembra nodarība  
+## 20. septembra nodarbība  
+ - [1.daļa](https://github.com/ViestursA/RTR105/blob/main/README.md#20-septembra-nodar%C4%ABba)
 ## 1.daļa:  
     1  VirtualBox --startvm XP
     2  quartus
