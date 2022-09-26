@@ -21,23 +21,23 @@ Saraksta piemērs (3):
 Piemērs ar emoji :smile:  
 
 ## Linux komandas:  
--ctrl + shift + t  
--ctrl + alt + F1 (F1 līdz F7, F7 iziet ārā)  
--whoami  
--who  
--pwd  
--ls ( + -l -a -t, var arī kobinēt)  
--nano fails.txt  
--cd .. (var arī cd /Desktop/ utt.)    
--rm (izdzēst, var pielietot ar -r)  
--mkdir (izveidot mapi)  
--git clone (links)+(jauna mapes nosakums) (lejupielādēt github pierakstus)  
--hexdump  
--history  
--cat  
--man ls  
--echo $0  
--sh  
+    1 ctrl + shift + t  
+    2 ctrl + alt + F1 (F1 līdz F7, F7 iziet ārā)  
+    3 whoami  
+    4 who  
+    5 pwd  
+    6 ls ( + -l -a -t, var arī kobinēt)  
+    7 nano fails.txt  
+    8 cd .. (var arī cd /Desktop/ utt.)    
+    9 rm (izdzēst, var pielietot ar -r)  
+    10 mkdir (izveidot mapi)  
+    11 git clone (links)+(jauna mapes nosakums) (lejupielādēt github pierakstus)  
+    12 hexdump  
+    13 history  
+    14 cat 
+    15 man ls  
+    16 echo $0  
+    17 sh  
   
 ## 13. septembra nodarbība  
     1  VirtualBox --startvm XP  
