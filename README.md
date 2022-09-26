@@ -4,7 +4,7 @@ Satura rādītājs
  - [6. septembris](https://github.com/ViestursA/RTR105#piem%C4%93ri-ar-sarakstiem)    
  - [13. septembris](https://github.com/ViestursA/RTR105/blob/main/README.md#13-septembra-nodarb%C4%ABba)  
  - [20. septembris](https://github.com/ViestursA/RTR105/blob/main/README.md#20-septembra-nodar%C4%ABba)  
- - [27. septembris]()    
+ - [27. septembris](https://github.com/ViestursA/RTR105/blob/main/README.md#27-septembra-nodarb%C4%ABba)    
 [Piemērs ar linku](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Svg_example4.svg/1200px-Svg_example4.svg.png)  
 ## Piemēri ar sarakstiem  
@@ -65,7 +65,8 @@ Piemērs ar emoji :smile:
     22  history > history_20220913a.txt  
    
 ## 20. septembra nodarbība  
- - [1.daļa](https://github.com/ViestursA/RTR105/blob/main/README.md#20-septembra-nodar%C4%ABba)
+ - [1.daļa](https://github.com/ViestursA/RTR105/blob/main/README.md#1da%C4%BCa)  
+ - [2.daļa](https://github.com/ViestursA/RTR105/blob/main/README.md#2-da%C4%BCa)
 ## 1.daļa:  
     1  VirtualBox --startvm XP
     2  quartus
