@@ -1,7 +1,7 @@
 # RTR105  
 Studiju kurss datormācībā, elektroniskā klade  
 Satura rādītājs  
- - [6. septembris](https://github.com/ViestursA/RTR105#piem%C4%93ri-ar-sarakstiem)    
+ - [6. septembris](https://github.com/ViestursA/RTR105/blob/main/README.md#linux-komandas)    
  - [13. septembris](https://github.com/ViestursA/RTR105/blob/main/README.md#13-septembra-nodarb%C4%ABba)  
  - [20. septembris](https://github.com/ViestursA/RTR105/blob/main/README.md#20-septembra-nodar%C4%ABba)  
  - [27. septembris](https://github.com/ViestursA/RTR105/blob/main/README.md#27-septembra-nodarb%C4%ABba)    
