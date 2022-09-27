@@ -1,0 +1,68 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/ViestursA/RTR105
+    4  ls -lt
+    5  whereis ls
+    6  ls -l /bin/ls
+    7  echo $PATH
+    8  cd RTR105/
+    9  mkdir Class_06
+   10  ls -lt
+   11  cd Class_06/
+   12  cat ../special_variable_test.sh 
+   13  nano first.c
+   14  cat first.c 
+   15  gcc first.c 
+   16  ls -lt
+   17  cat first.c 
+   18  cat a.out
+   19  echo $PATH
+   20  pwd
+   21  ls -lt
+   22  /home/user/RTR105/Class_06/a.out
+   23  ~/RTR105/Class_06/a.out 
+   24  ./a.out 
+   25  ../Class_06/a.out 
+   26  ls -la
+   27  tree
+   28  cd ~/RTR105/
+   29  tree
+   30  cd
+   31  tree
+   32  cd ~/RTR105/Class_06/
+   33  nano first.c
+   34  echo $?
+   35  gcc first.c 
+   36  nano first.c 
+   37  gcc first.c 
+   38  ./a.out 
+   39  echo $?
+   40  nano first.c 
+   41* 
+   42  ./a.out 
+   43  echo $?
+   44  nano first.c 
+   45  ls -lt
+   46  gcc first.c -o first.out
+   47  ls -lt
+   48  cd ..
+   49  ls -lt
+   50  tree
+   51  nano .gitignore
+   52  ls -lt
+   53  ls -lta
+   54  cd ./Class_06/
+   55  gcc first.c -S -save-temps -o first.out
+   56  cat first.c
+   57  cat first.i
+   58  gcc first.c -save-temps -o first.out
+   59  ls -lt
+   60  cat first.s
+   61  first.o
+   62  cat first.o
+   63  cat first.c
+   64  hexdump -C first.c
+   65  cd ..
+   66  ls -lta
+   67  ./git-upload 06
+   68  history > history_20220927.txt
