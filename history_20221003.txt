@@ -1,0 +1,26 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  git clone https://github.com/ViestursA/RTR105
+    5  ls -lt
+    6  cd ./RTR105/
+    7  mkdir Class_07
+    8  cd ./Class_07
+    9  nano printf.c
+   10  gcc printf.c
+   11  cat printf.c 
+   12  nano scanf.c
+   13  gcc scanf.c 
+   14  ls -lt
+   15  cd ..
+   16  cd ./Class_07
+   17  gcc scanf.c
+   18  gcc printf.c -out printf.out
+   19  gcc printf.c -o printf.out
+   20  gcc scanf.c -o scanf.out
+   21  ls -lt
+   22  rm a.out 
+   23  cat printf.c
+   24  cat printf.out
+   25  cd ..
+   26  history > history_20221003.txt
