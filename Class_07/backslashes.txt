@@ -1,0 +1,9 @@
+int main () {
+  printf("\n"); //pārceļ kursoru jaunajā rindā
+  printf("\t"); //pārceļ kursoru uz tuvāko tabulācijas pozīciju
+  printf("\v"); //vertikālais tabs
+  printf("\b"); //pārceļ kursoru vienu pozīciju atpakaļ
+  printf("\a"); //alert
+  printf("\r"); //pārceļ kursoru uz rindas sākumu
+
+}
