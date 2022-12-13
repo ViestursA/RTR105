@@ -2,7 +2,16 @@
 #include<math.h>
 
 void main(){
- float a=0.,b=2*M_PI,x,delta_x=1.e-2;
+ float a,b,x,delta_x;
+
+ printf("Ievadiet sākuma vērtību a = ");
+ scanf("%f\n",&a);
+
+ printf("Ievadiet beigu vērtību b = ");
+ scanf("%f\n",&a);
+
+ printf("Kāda ir precizitāte dotajai funkcijai? delta_x = ");
+ scanf("%f\n",&delta_x);
 
  printf("\tx\t\tatan(x)\t\tatan\'(x)\n");
  x = a;

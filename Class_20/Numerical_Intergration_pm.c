@@ -2,8 +2,17 @@
 #include<math.h>
 
 void main(){
- float a=0., b=M_PI/2, eps=1.e-3 , h, integr1=0, integr2;
+ float a, b, eps, h, integr1=0, integr2;
  int k, n=2;
+
+ printf("Ievadiet intervāla sākuma vērtību a = ");
+ scanf("%f\n",&a);
+
+ printf("Ievadiet intervāla beigu vērtību b = ");
+ scanf("%f\n",&b);
+
+ printf("Ievadiet funkcijas precizitāti eps = ");
+ scanf("%f\n",&eps);
 
  integr2 = (b-a)*(atan(a)+atan(b))/n;
  while(fabs(integr2-integr1)>eps){
