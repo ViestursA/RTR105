@@ -6,13 +6,13 @@ void main(){
  int k, n=2;
 
  printf("Ievadiet intervāla sākuma vērtību a = ");
- scanf("%f\n",&a);
+ scanf("%f",&a);
 
  printf("Ievadiet intervāla beigu vērtību b = ");
- scanf("%f\n",&b);
+ scanf("%f",&b);
 
  printf("Ievadiet funkcijas precizitāti eps = ");
- scanf("%f\n",&eps);
+ scanf("%f",&eps);
 
  integr2 = (b-a)*(atan(a)+atan(b))/n;
  while(fabs(integr2-integr1)>eps){
