@@ -12,20 +12,21 @@ void main(){
  scanf("%f",&a);
 
  printf("Ievadiet beigu vērtību b = ");
- scanf("%f",&a);
+ scanf("%f",&b);
 
  printf("Kāda ir precizitāte dotajai funkcijai? delta_x = ");
  scanf("%f",&delta_x);
 
- float dx_analitiskais = 1 / (1+x*x);
- float d2x_analitiskais = -2*x/(1+x*x)/(1+x*x);
- float dx_skaitliskais = ((atan(x+delta_x)-atan(x))/delta_x);
- float d2x_skaitliskais = (((atan(x+delta_x)-atan(x))/delta_x)/delta_x);
+ 
 
  fprintf(file,"\tx\t\tatan(x)\t\tatan'(x)(analītiskā formula)\t\tatan'(x)(skaitliskā forma)\t\tatan''(x)(analītiskā formula)\t\tatan''(x)(skaitliskā forma)\n");
  x = a;
  while(x<b){
-  fprintf(file,"%10.2f\t%10.2f\t%10.2f\t%10.2f\t%10.2f\t%10.2f\n",x,atan(x),dx_analitiskais,dx_skaitliskais,d2x_analitiskais,d2x_skaitliskais);
+  float dx_analitiskais = 1 / (1+x*x);
+  float d2x_analitiskais = -2*x/(1+x*x)/(1+x*x);
+  float dx_skaitliskais = ((atan(x+delta_x)-atan(x))/delta_x);
+  float d2x_skaitliskais = ((atan(x+2*delta_x)-2*atan(x+delta_x)+atan(x))/delta_x*delta_x);
+  fprintf(file,"%.2f\t%10.2f\t%20.2f\t%20.2f\t%25.4f\t%25.4f\n",x,atan(x),dx_analitiskais,dx_skaitliskais,d2x_analitiskais,d2x_skaitliskais);
   x += delta_x;
  }
  fclose(file);
