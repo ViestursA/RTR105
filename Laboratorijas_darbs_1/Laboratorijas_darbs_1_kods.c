@@ -6,7 +6,7 @@ double mans_arctan(double x) {
   double a, S;
   int k=0;
 
-  printf("      x\t\t     a\t\t\t        S\n");
+  printf("      x\t\t     a\t\t\t         S\n");
   
   a = (x/(sqrt(1+pow(x,2))) * 1/(1*1*1) * 1);
   S = a;
